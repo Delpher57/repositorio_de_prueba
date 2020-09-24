@@ -7,3 +7,7 @@ modificando desde linux
 
 
 editando ahora desde otra pc de windows
+
+
+
+editando otra vez desde linux, haciendo commit de terminal
