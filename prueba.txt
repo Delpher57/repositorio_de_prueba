@@ -21,3 +21,6 @@ editando otra vez desde linux, haciendo commit de terminal
 
 
 ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+
+voy a modificar las dos varas a la vez
